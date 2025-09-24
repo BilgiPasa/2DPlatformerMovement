@@ -7,3 +7,5 @@ In the Scripts folder, open and read the top comments of the scripts. The commen
 The "2D Platformer Movement" project is in the 2022.3.62f1 version of the Unity game engine.
 
 Projemi yaparken ChatGPT, Deepseek, Claude gibi yapay zekaları KULLANMADIM. Ki zaten Generitive AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
+
+Haberin olsun bu proje üstünde çalışmayı bıraktım. Bu reponun Movement kodunu kullanmak istiyorsan bakabilirsin.
