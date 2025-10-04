@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
 public class PauseMenuManager : MonoBehaviour
@@ -7,6 +8,12 @@ public class PauseMenuManager : MonoBehaviour
     public static bool gamePaused;
     const KeyCode escapeKey = KeyCode.Escape;
     [SerializeField] GameObject pauseMenuObject;
+    [SerializeField] TextMeshProUGUI gameVersionText;
+
+    void Start()
+    {
+        gameVersionText.text = $"v{Application.version}";
+    }
 
     void Update()
     {
