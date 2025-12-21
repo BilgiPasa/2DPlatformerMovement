@@ -6,6 +6,8 @@ In the Scripts folder, open and read the top comments of the scripts. The commen
 
 The .unitypackage folder of my project can be used in Unity 2022.3.62f2 with Built-In Render Pipeline.
 
-Projemi yaparken ChatGPT, Deepseek, Claude gibi yapay zekaları KULLANMADIM. Ki zaten Generitive AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
+Projemi yaparken hiçbir Generitive AI prompt'u KULLANMADIM ki zaten Generitive AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
+
+Projemdeki kodların ve yorum satırlarının hepsini kendim yazdım ama tabii ki de internette bulduğum tutorial'lardan yardım aldığım oldu.
 
 Haberin olsun bu proje üstünde çalışmayı bıraktım. Bu reponun Movement kodunu kullanmak istiyorsan bakabilirsin.
