@@ -8,4 +8,4 @@ Scriptlerin üst satırlarında yazmış olduğum yorumları okuyunuz. O yorumla
 
 Projemin .unitypackage dosyası, Unity'nin 2022.3.62f2 versiyonunda Built-In Render Pipeline ile kullanılabilir.
 
-Haberiniz olsun bu proje üstünde çalışmayı bıraktım. Bu reponun movement kodunu kullanmak istiyorsanız bakabilirsiniz.
+Haberiniz olsun, bu proje üstünde çalışmayı bıraktım. Bu reponun movement kodunu kullanmak istiyorsanız bakabilirsiniz.
