@@ -1,6 +1,6 @@
 # 2DPlatformerMovement
 
-This is the scripts of a 2D Platformer Movement system that I made in Unity.
+These are the scripts of a 2D Platformer Movement system that I made in Unity.
 
 I wrote the code of the project. **I did not do** "vibe coding".
 
